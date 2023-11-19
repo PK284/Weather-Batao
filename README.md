@@ -9,8 +9,7 @@ Weather Batao is a simple Android app that provides weather information for diff
 - Uses RecyclerView to display the weather data in a scrollable list.
 
 ## Screenshots
-
-Include some screenshots of your app here to showcase its UI and functionality.
+.
 
 ## Dependencies
 
